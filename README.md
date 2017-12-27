@@ -9,3 +9,7 @@ Just editing some text here
 some more text here
 
 Sample website with plenty of files for demos
+
+and some end text
+
+and modified once more
