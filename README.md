@@ -6,4 +6,6 @@ Just editing some text here
 
 ## Purpose
 
+some more text here
+
 Sample website with plenty of files for demos
